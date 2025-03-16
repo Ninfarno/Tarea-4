@@ -1,4 +1,6 @@
 Autor: Luis Mendoza Madriz 
+*Nota: Abra el README para entender las instrucciones*
+
 
 Todos lo archivos se encuentran en la carpeta scr en 3 paquetes
 -Package Actividad1:
